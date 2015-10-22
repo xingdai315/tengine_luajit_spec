@@ -2,13 +2,11 @@
 
 ***
 Build tengine rpm with Luajit
-
 ## Requirements
 ***
 ### Platforms
  * CentOS 6.X
- * CentOS 7
- 
+ * CentOS 7 
 ### Rpmbuild directory
 SOURCE      
 	---logrotate  
